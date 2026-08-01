@@ -1,7 +1,5 @@
 # Hola!
 
-## Mi nombre es Joaquin Gonzalez Gutierrezm tengo 21 años y soy de BS.AS. Argentina.
-
 Soy un estudiante de 2° año del ISFDYT20, estoy cursando la Tecnicatura Superior en Desarrollo de Software.
 
 Mi objetivo con este GitHub es tener un repositorio donde poder alojar mis proyectos, darme a conocer para alguna entrevista laborar y de alguna manera obtener alguna especie de feedback de la gente.
